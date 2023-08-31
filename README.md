@@ -1,5 +1,3 @@
 # hakkaradio_sixian
 
-<video controls="" autoplay="" name="media">
-    <source src="https://github.com/hungshinlee/hakkaradio_sixian/raw/main/wav/75_34208_3482960-3490266.wav" type="audio/wav">
-</video>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://github.com/hungshinlee/hakkaradio_sixian/raw/main/wav/75_34208_3482960-3490266.wav"></iframe>
